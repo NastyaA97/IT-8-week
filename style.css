@@ -1,0 +1,39 @@
+.items-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pb {
+    padding-bottom: 1rem;
+}
+.welcome {
+    background-color: #E9ECEF;
+    padding-top: 6%;
+    padding-bottom: 5%;
+}
+
+.start {
+    padding-left: 5%;
+}
+
+.image {
+    height: 120px;
+}
+
+.h-70 {
+    height: 70px;
+}
+
+.h-45 {
+    height: 45px;
+}
+
+.bg {
+    background-color: #353A3F;
+}
+
+.nav {
+    --bs-nav-link-color: grey;
+    --bs-nav-link-hover-color: white;
+}
